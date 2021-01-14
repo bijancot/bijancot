@@ -1,4 +1,4 @@
-### Welcome to my Github Repository 👋
+### wasup! 👋
 ![stats](https://github-readme-stats.vercel.app/api?username=bijancot&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijancot&hide=javascript,html&theme=radical&layout=compact)
